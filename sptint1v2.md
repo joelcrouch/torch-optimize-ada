@@ -16,7 +16,7 @@ Build the core abstraction layer that works with any PyTorch model, demonstrate 
 
 ---
 
-## **DAY 1: Core Abstractions & Project Setup**
+## **DAY 1: Core Abstractions & Project Setup DONE!**
 
 ### 📋 User Story 1.1: Model Interface Abstraction
 **As a** framework user  
@@ -374,7 +374,7 @@ print(f"Embedding dimension: {result['embedding_dim']}")
 result = model.infer({"text": "a photo of a cat"})
 print(f"Embedding dimension: {result['embedding_dim']}")
 ```
-# DAy 1 done!
+# **DAY 1 done!** 
 ---
 
 ## **DAY 2: Generic Profiling Engine**
